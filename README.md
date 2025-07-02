@@ -83,5 +83,5 @@ OWNER_NUMBER="22891733300"       # Votre numéro WhatsApp
 ### 📚 Bibliothèques Utilisées
 
 ```bash
-@WhiskeySocket/baileys
+@WhiskeySocket/
 ```
