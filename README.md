@@ -51,6 +51,7 @@ Déployez instantanément sur Heroku :
 ```js
 
 const fs = require("fs");
+const { spawnSync, spawn } = require("child_process");
 
 const zokouEnv = {
   // Identifiant de session WhatsApp (utilisé pour se connecter à votre compte)
